@@ -1,0 +1,22 @@
+{
+  "name": "democomponent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ico-calendar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnGorter/democomponent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnGorter/democomponent/issues"
+  },
+  "homepage": "https://github.com/JohnGorter/democomponent#readme",
+  "dependencies": {
+    "@polymer/polymer": "next"
+  }
+}
